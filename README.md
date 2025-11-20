@@ -10,9 +10,6 @@ A curated list of Dorks to find publicly indexed, privately shared conversations
 -   [The Dorks List](#the-dorks-list)
 -   [How to Use](#how-to-use)
 -   [Ethical Considerations](#ethical-considerations)
--   [Contributing](#contributing)
--   [License](#license)
--   [Acknowledgments](#acknowledgments)
 
 ## What are Google Dorks?
 
