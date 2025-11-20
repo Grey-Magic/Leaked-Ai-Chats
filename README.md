@@ -1,4 +1,4 @@
-# AI/LLM Chatbot Google Dorks
+# AI/LLM Chatbot OSINT Dorks
 
 A curated list of Dorks to find publicly indexed, privately shared conversations from various AI/LLM chatbots. This repository is intended for security researchers, bug bounty hunters, and privacy enthusiasts to conduct research and raise awareness about potential data exposure.
 
