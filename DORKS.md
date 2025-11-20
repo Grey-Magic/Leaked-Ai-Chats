@@ -14,6 +14,9 @@ Search engines are increasingly indexing privately shared AI chat conversations.
 | **Meta AI** | `site:meta.ai/prompt/` |
 | **Mistral AI** | `site:chat.mistral.ai/chat/` |
 | **Perplexity** | `site:perplexity.ai/search/` |
+| **MiniMax** | `agent.minimax.io/share/` |
+| **Kimi ( OK Computer )** | `ok.kimi.link/` |
+| **Ernie Baidu** | `ernie.baidu.com/share/` |
 
 ## 🔍 Search Tips
 
