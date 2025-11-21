@@ -28,10 +28,12 @@ This file contains a table of dorks for platforms like ChatGPT, Mistral AI, Perp
 1.  **Choose a Dork**: Go to the [`DORKS.md`](./DORKS.md) file and copy the dork for the platform you are interested in.
 2.  **Use a Search Engine**: Paste the dork into the search bar of a search engine (e.g., Google, Bing, DuckDuckGo).
 3.  **Refine Your Search (Optional)**: Add specific keywords to the end of the dork to narrow down the results.
-    *   **Example**: To find indexed chats about "API keys" from Mistral AI, you would search for:
+    *   **Example**: To find indexed chats about specfic topics search for that keyword
+
         ```
-        site:chat.mistral.ai/chat/ "API keys"
+        site:chat.mistral.ai/chat/ "<YOUR KEYWORDS>"
         ```
+        
 4.  **Analyze Results**: Review the search results. **Do not attempt to access or exploit any sensitive or private data you may find.** The goal is to identify the existence of exposed data, not to view its contents.
 
 ## Ethical Considerations
