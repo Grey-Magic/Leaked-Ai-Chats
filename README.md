@@ -39,5 +39,4 @@ This file contains a table of dorks for platforms like ChatGPT, Mistral AI, Perp
 ## Ethical Considerations
 
 -   **Authorized Research Only**: Use these dorks only on systems where you have explicit permission to test.
--   **Do Not Access Private Data**: If you find a link to a private conversation, do not click it with the intent to view its contents. The discovery of the link itself is often sufficient to demonstrate the vulnerability.
--   **Report Responsibly**: If you discover a significant data exposure vulnerability, report it through the platform's official bug bounty program or vulnerability disclosure channel. Provide clear, actionable information to help them fix the issue.
+-   **Do Not Access Private Data**: If you find a link to a private conversation, do not click it with the intent to view its contents. The discovery of the link itself is often sufficient to demonstrate the attack vector.
