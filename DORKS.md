@@ -17,6 +17,8 @@ Search engines are increasingly indexing privately shared AI chat conversations.
 | **MiniMax** | `site:agent.minimax.io/share/` |
 | **Kimi ( OK Computer )** | `site:ok.kimi.link/` |
 | **Ernie Baidu** | `site:ernie.baidu.com/share/` |
+| **Phind** | | `site:phind.com/search/` |
+| **Komo** | | `site:komo.ai/share/` |
 
 ## 🔍 Search Tips
 
