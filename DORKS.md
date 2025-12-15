@@ -19,6 +19,7 @@ Search engines are increasingly indexing privately shared AI chat conversations.
 | **Ernie Baidu** | `site:ernie.baidu.com/share/` |
 | **Phind** | | `site:phind.com/search/` |
 | **Komo** | | `site:komo.ai/share/` |
+| **Deepseek** | | `site:chat.deepseek.com/share/` |
 
 ## 🔍 Search Tips
 
