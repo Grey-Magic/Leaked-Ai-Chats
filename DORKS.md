@@ -8,7 +8,7 @@ Search engines are increasingly indexing privately shared AI chat conversations.
 | **QWEN** | `site:chat.qwen.ai/s/` |
 | **GLM (Zhepu AI)** | `site:chat.z.ai/s/` |
 | **StepFun** | `site:stepfun.ai/share/` |
-| **ChatGPT** | `site:chatgpt.com/share hacking` |
+| **ChatGPT** | `site:chatgpt.com/share/` |
 | **Grok** | `site:grok.com/share/` |
 | **Google AI Studio** | `site:aistudio.google.com/app/prompts` |
 | **Meta AI** | `site:meta.ai/prompt/` |
