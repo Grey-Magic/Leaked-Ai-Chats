@@ -20,7 +20,24 @@ Search engines are increasingly indexing privately shared AI chat conversations.
 | **Phind**  | `site:phind.com/search/` |
 | **Komo**  | `site:komo.ai/share/` |
 | **Deepseek**  | `site:chat.deepseek.com/share/` |
-
+| **Anthropic** | `claude.ai/share/` |
+| **Gemini** | `gemini.google.com/share/` |
+| **Copy.ai** | `site:copy.ai/share/` |
+| **Writesonic** | `writesonic.com/share/` |
+| **Spark Desk (iFlytek)** | `xinghuo.xfyun.cn/share/` |
+| **Hunyuan (Tencent)** | `hunyuan.tencent.com/share/` |
+| **GitHub Copilot Chat** | `github.com/copilot/share/` |
+| **Poe** | `site:poe.com/chat/` |
+| **Blackbox AI** | `blackbox.ai/share/` |
+| **HeyGen** | `heygen.com/share/` |
+| **Luma AI** | `lumalabs.ai/share/` |
+| **Hailuo AI** | `hailuoai.video/share/` |
+| **Together AI** | `together.ai/share/` |
+| **Character.AI** | `character.ai/chat/` |
+| **Baichuan** | `baichuan-ai.com/share/` |
+| **Monica Ai** | `monica.im/share/` |
+| **Sider Ai** | `sider.ai/share/` |
+| **Merlin** | `getmerlin.in/share/` |
 ## 🔍 Search Tips
 
 To search for specific content within these shared chats, simply add your keywords after the dork.
